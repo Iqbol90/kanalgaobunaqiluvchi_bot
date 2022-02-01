@@ -1,1 +1,1 @@
-# kanalgaobunaqiluvchi_bot
+# kanalga obuna qiluvchi_bot
